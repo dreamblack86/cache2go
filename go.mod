@@ -1,3 +1,3 @@
-module github.com/dsteininger/cache2go
+module github.com/dreamblack86/cache2go
 
 go 1.15
